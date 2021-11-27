@@ -1,0 +1,11 @@
+C:\Users\jarosemena\Documents\jarosemena\Proyectos\Escuela\Escuela\obj\Debug\netcoreapp2.1\CoreEscuela.csprojAssemblyReference.cache
+C:\Users\jarosemena\Documents\jarosemena\Proyectos\Escuela\Escuela\obj\Debug\netcoreapp2.1\CoreEscuela.csproj.CoreCompileInputs.cache
+C:\Users\jarosemena\Documents\jarosemena\Proyectos\Escuela\Escuela\obj\Debug\netcoreapp2.1\CoreEscuela.AssemblyInfoInputs.cache
+C:\Users\jarosemena\Documents\jarosemena\Proyectos\Escuela\Escuela\obj\Debug\netcoreapp2.1\CoreEscuela.AssemblyInfo.cs
+C:\Users\jarosemena\Documents\jarosemena\Proyectos\Escuela\Escuela\bin\Debug\netcoreapp2.1\CoreEscuela.deps.json
+C:\Users\jarosemena\Documents\jarosemena\Proyectos\Escuela\Escuela\bin\Debug\netcoreapp2.1\CoreEscuela.runtimeconfig.json
+C:\Users\jarosemena\Documents\jarosemena\Proyectos\Escuela\Escuela\bin\Debug\netcoreapp2.1\CoreEscuela.runtimeconfig.dev.json
+C:\Users\jarosemena\Documents\jarosemena\Proyectos\Escuela\Escuela\bin\Debug\netcoreapp2.1\CoreEscuela.dll
+C:\Users\jarosemena\Documents\jarosemena\Proyectos\Escuela\Escuela\bin\Debug\netcoreapp2.1\CoreEscuela.pdb
+C:\Users\jarosemena\Documents\jarosemena\Proyectos\Escuela\Escuela\obj\Debug\netcoreapp2.1\CoreEscuela.dll
+C:\Users\jarosemena\Documents\jarosemena\Proyectos\Escuela\Escuela\obj\Debug\netcoreapp2.1\CoreEscuela.pdb
